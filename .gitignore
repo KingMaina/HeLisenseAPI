@@ -1,0 +1,7 @@
+node_modules
+postman
+.dhiwise
+.env
+.env.docker
+__test__
+package-lock.json
